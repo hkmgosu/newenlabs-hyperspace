@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('C:/Users/SP Festigame/Documents/work/AetherApps/gatsby-starter-hyperspace/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('C:/Users/SP Festigame/Documents/work/NewenLabs/web-app/newenlabs-hyperspace/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/SP Festigame/Documents/work/AetherApps/gatsby-starter-hyperspace/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('C:/Users/SP Festigame/Documents/work/NewenLabs/web-app/newenlabs-hyperspace/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Newenlabs Ingenieria Software","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"standalone","icon":"src/assets/img/website-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"c4af7354b205bfe6dac741bd322e9b02"},
     },{
-      plugin: require('C:/Users/SP Festigame/Documents/work/AetherApps/gatsby-starter-hyperspace/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('C:/Users/SP Festigame/Documents/work/NewenLabs/web-app/newenlabs-hyperspace/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
