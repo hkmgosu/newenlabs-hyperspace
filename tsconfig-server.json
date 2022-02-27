@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./server",
+      "module": "commonjs",
+      "esModuleInterop": true,
+      "target": "esnext",
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "outDir": "dist",
+      "noEmit": false
+    },
+    "lib": ["es2015"]
+  }
