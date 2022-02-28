@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-hyperspace-newenlabs",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Hyperspace by HTML5 UP, remix Dr. Aukanaw",
+  "description": "Gatsby.js V2 starter template based on Hyperspace by HTML5 UP, remix v3 Dr. Aukanaw",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hkmgosu/gatsby-starter-hyperspace-newenlabs.git"
@@ -15,8 +15,8 @@
     "gatsby-plugin-manifest": "latest",
     "gatsby-plugin-offline": "latest",
     "gatsby-plugin-react-helmet": "latest",
-    "gatsby-plugin-sass": "latest",
-    "node-sass": "latest",
+    "gatsby-plugin-sass": "^5.8.0",
+    "node-sass": "^6.0.1",
     "react": "latest",
     "react-dom": "latest",
     "react-helmet": "latest",
@@ -35,7 +35,8 @@
   "devDependencies": {
     "gh-pages": "^3.2.3",
     "prettier": "^2.5.1",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "sass": "^1.49.9"
   },
   "keywords": [
     "gatsby",

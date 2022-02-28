@@ -1,4 +1,7 @@
 // html-grid.scss v1.0 | @ajlkn | MIT licensed */
+// updated to sass 7.0 by Aukanaw
+
+@use 'sass:math';
 
 // Mixins.
 
@@ -10,7 +13,7 @@
 		// Initialize.
 			$cols: 12;
 			$multipliers: 0, 0.25, 0.5, 1, 1.50, 2.00;
-			$unit: 100% / $cols;
+			$unit: math.div(100%, $cols);
 
 			// Suffixes.
 				$suffixes: null;

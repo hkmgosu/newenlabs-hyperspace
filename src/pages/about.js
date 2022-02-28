@@ -2,9 +2,9 @@ import React from 'react';
 
 import pic1 from '../images/pic01.jpg';
 import pic2 from '../images/pic02.jpg';
-import pic11 from '../images/pic11.jpg';
-import pic12 from '../images/pic12.jpg';
-import pic9 from '../images/pic09.jpg';
+import pic11 from '../images/pic11.JPG';
+import pic12 from '../images/pic12.JPG';
+import pic9 from '../images/pic09.JPG';
 
 import Layout from '../components/common/layout';
 import Footer from '../components/common/Footer';
