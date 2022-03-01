@@ -1,14 +1,14 @@
 var plugins = [{
       name: 'gatsby-plugin-react-helmet',
-      plugin: require('/home/hkmgosu/Documents/work/aetherApps/newenlabs/newenlabs-hyperspace/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
+      plugin: require('C:/Users/SP Festigame/Documents/work/NewenLabs/web-app/hyperspace/newenlabs-web-landingpage/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-manifest',
-      plugin: require('/home/hkmgosu/Documents/work/aetherApps/newenlabs/newenlabs-hyperspace/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
+      plugin: require('C:/Users/SP Festigame/Documents/work/NewenLabs/web-app/hyperspace/newenlabs-web-landingpage/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
       options: {"plugins":[],"name":"Newenlabs Ingenieria Software","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"standalone","icon":"src/assets/img/website-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"c4af7354b205bfe6dac741bd322e9b02"},
     },{
       name: 'gatsby-plugin-offline',
-      plugin: require('/home/hkmgosu/Documents/work/aetherApps/newenlabs/newenlabs-hyperspace/node_modules/gatsby-plugin-offline/gatsby-ssr.js'),
+      plugin: require('C:/Users/SP Festigame/Documents/work/NewenLabs/web-app/hyperspace/newenlabs-web-landingpage/node_modules/gatsby-plugin-offline/gatsby-ssr.js'),
       options: {"plugins":[]},
     }]
 /* global plugins */
